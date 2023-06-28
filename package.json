@@ -1,0 +1,15 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "create a  wheather app",
+  "main": "script.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "shaurya",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "requests": "^0.3.0"
+  }
+}
